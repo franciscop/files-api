@@ -6,7 +6,7 @@ Files API is a project to allow you to manage files programatically. It also pro
 - 🖼️ Specific helpers for images.
 - 🏖️ Easy to use by developers and well documented (aham not yet~).
 - 🚀 High performance for whenever you need it most.
-- 💰 Cheaper than the alternatives. [see how](#how-is-it-so-cheap-).
+- 💰 Cheaper than the alternatives. [see how](#how-is-it-so-cheap).
 - 💸 Fixed pricing. No nasty surprises at the end of the month.
 
 ## Getting Started
