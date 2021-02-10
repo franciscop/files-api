@@ -1,6 +1,6 @@
 # Documentation
 
-This is the official documentation for https://files-api.com/. You can try it out as a [free service](#free-api) or create an account and [pick a plan](#pricing).
+This is the official documentation for [Files API](https://files-api.com/). You can try it out as a [free service](#free-api) or create an account and [pick a plan](#pricing).
 
 ## Getting Started
 
